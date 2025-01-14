@@ -30,7 +30,7 @@ eksctl version
 	- IAM - fullaccess <br/>
 	- VPC - fullaccess <br/>
 	- EC2 - fullaccess  <br/>
-	- CloudFomration - fullaccess  <br/>
+	- CloudFormration - fullaccess  <br/>
 	- Administrator - acces <br/>
 		
 3) Enter Role Name (eksroleec2) 
